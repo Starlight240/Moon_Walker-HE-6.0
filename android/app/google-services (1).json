@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706451140993",
+    "project_id": "aquila-d3cd0",
+    "storage_bucket": "aquila-d3cd0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706451140993:android:2131e38233ae6e04cff880",
+        "android_client_info": {
+          "package_name": "com.example.aquila"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpSYkPNy2tUoNrD_ImqYdPcnn1GhWDepo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
